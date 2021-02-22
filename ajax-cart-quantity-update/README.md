@@ -1,6 +1,6 @@
 # Ajax Cart Quantity Update 
 
-A portable woocommerce plugin. designed to be configurable for a range of businesses.
+A portable woocommerce plugin. designed to be used on any site integrated with woocommerce.
 
 ## Dependencies
 Woocommerce.
